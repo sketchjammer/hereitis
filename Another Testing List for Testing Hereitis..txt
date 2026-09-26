@@ -1,0 +1,41 @@
+
+HEREITIS TEST
+
+[ ] App opens
+[ ] Play Game Show opens
+[ ] Add contestant
+[ ] Rename contestant
+[ ] Delete contestant
+[ ] Select contestant
+[ ] Add room
+[ ] Add category
+[ ] Add item
+[ ] Where is this item? works
+[ ] Which category? works
+[ ] Correct answer works
+[ ] Incorrect answer works
+[ ] Score changes
+[ ] Correct count changes
+[ ] Wrong count changes
+[ ] Streak works
+[ ] Next contestant works
+[ ] 5-minute game works
+[ ] Question-count game works
+[ ] Add contestant picture
+[ ] Add WAV
+[ ] Add picture/GIF
+[ ] Test correct media
+[ ] Test incorrect media
+[ ] Record audio
+[ ] Building Map works
+[ ] Lock game
+[ ] Players cannot edit data while locked
+[ ] Players can still answer
+[ ] Players can still view Building Map
+[ ] Save Game Data
+[ ] Find saved file
+[ ] Load Game Data
+[ ] Colors restored
+[ ] Game data restored
+[ ] Close/reopen app
+[ ] Data still works
